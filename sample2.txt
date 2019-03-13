@@ -1,1 +1,1 @@
-Hi This is my second sample document.
+Hi This is my second sample document. It contains only text.
